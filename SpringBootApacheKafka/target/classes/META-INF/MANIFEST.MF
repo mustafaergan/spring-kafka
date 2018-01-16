@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: kafka
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: mustafa.ergan
+Implementation-Vendor-Id: com.mustafaergan
+Build-Jdk: 1.8.0_40
+Implementation-URL: http://projects.spring.io/spring-boot/kafka/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
